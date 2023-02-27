@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1664598141 source:d:\acedamic\6b\emebeded systems\assignment 3\codes\assignment3\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<stdio.h>
+	<list>
+	<map>
+	<algorithm>
+	<bitset>
+	<vector>
+	<string.h>
+
